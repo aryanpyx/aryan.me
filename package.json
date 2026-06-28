@@ -5,7 +5,7 @@
   "main": "index.html",
   "scripts": {
     "dev": "serve . -p 3000",
-    "build": "echo \"This is a static HTML site. No build process is required. All files are already in their final state.\""
+    "build": "node build.js"
   },
   "devDependencies": {
     "serve": "^14.2.4"
