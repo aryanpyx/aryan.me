@@ -1,0 +1,13 @@
+{
+  "name": "aryan.me",
+  "version": "1.0.0",
+  "description": "Aryan Pandey Portfolio",
+  "main": "index.html",
+  "scripts": {
+    "dev": "serve . -p 3000",
+    "build": "echo \"This is a static HTML site. No build process is required. All files are already in their final state.\""
+  },
+  "devDependencies": {
+    "serve": "^14.2.4"
+  }
+}
